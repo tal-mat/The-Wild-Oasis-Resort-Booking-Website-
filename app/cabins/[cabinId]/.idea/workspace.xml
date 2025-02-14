@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec4cc9f-16bb-475e-b6f6-4244da872aad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-pure-react/starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/src/components/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/src/components/PackingList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/src/components/Stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/components/FormAddFriend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/components/FormSplitBill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/components/Friend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/components/FriendsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/src/data/InitialFriends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/public/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/App-v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Movie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/MovieDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/MoviesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/SearchResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/StarRating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/WatchedMovie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/WatchedMoviesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/components/WatchedSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/hooks/useKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/hooks/useLocalStorageState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/src/hooks/useMovies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/src/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/src/components/Day.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/src/components/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/src/components/Weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/src/utils/weatherUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/DateCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/FinishScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/NextButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Proggress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Question.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/StartScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/components/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src-no-context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/FinishScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/NextButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Proggress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Question.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/StartScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/components/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/src/contexts/QuizContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/untitled/src/Solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../10-react-quiz/untitled/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/components/AppNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/components/PageNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/pages/AppLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/routes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/styles/AppNav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/WorldWise/src/styles/PageNav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/App-memo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/App-v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/Components/PostContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/Helpers/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/src/features/accounts/accountSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/src/features/customers/customerSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/src/store-v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/src/store-v2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/cart/CartItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/cart/DeleteItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/cart/UpdateItemQuantity.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/cart/cartSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/order/SearchOrder.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/order/UpdateOrder.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/features/user/Username.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/ui/AppLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/ui/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/ui/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/ui/LinkButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/fast-react-pizza/src/ui/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/public/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/contexts/DarkModeContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/data/Uploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/data/data-bookings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/data/data-cabins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/data/data-guests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/Logout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/useLogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/useLogout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/useSignup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/useUpdateUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/authentication/useUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/CreateBookingForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/useBooking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/useBookings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/useCreateBooking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/useDeleteBooking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/bookings/useEditBooking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/AddCabin-v1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/AddCabin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/CabinTable-v1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/CabinTable-v2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/CabinTableOperations.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/CreateCabinForm-v1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/useCabins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/useCreateCabin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/useDeleteCabin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/cabins/useEditCabin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/check-in-out/useCheckin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/check-in-out/useCheckout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/check-in-out/useDatesValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/check-in-out/useTodayActivity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/dashboard/Stats.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/dashboard/useRecentBookings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/dashboard/useRecentStays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/settings/useSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/features/settings/useUpdateSetting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/hooks/useOutsideClick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/pages/Booking.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/pages/Checkin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/services/apiAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/services/apiCabins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/services/apiGuests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/services/supabase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/styles/GlobalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/AppLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/DarkModeToggle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/DatePicker.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/FormRow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/FormRowVertical.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/HeaderMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Heading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Modal-v1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/ProtectedRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Row.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/ui/SortBy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/the-wild-oasis/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../20-manual-ssr/starter/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../20-manual-ssr/starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../20-manual-ssr/starter/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../20-manual-ssr/starter/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_components/CabinList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_lib/supabase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../about/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../account/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../account/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/focaccia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/funghi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/margherita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/prosciutto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/salamino.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../03-pizza-menu/starter/pizzas/spinaci.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../05-travel-list/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../06-eat-n-split/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../07-usepopcorn/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../08-how-react-works/starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../08-how-react-works/starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../08-how-react-works/starter/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../08-how-react-works/starter/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../09-classy-weather/starter/starter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/DateCounter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/Error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../10-react-quiz/starter/questions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/final/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../11-worldwise/final/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/AppNav.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Button.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/City.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/City.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/CityItem.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/CityList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/CountryItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/CountryItem.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/CountryList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Form.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Form.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Logo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Logo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Map.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Message.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Message.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/PageNav.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Sidebar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Spinner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/Spinner.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/SpinnerFullPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/SpinnerFullPage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/User.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/components/User.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/data/cities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/AppLayout.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Homepage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Homepage.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Login.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/PageNotFound.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Pricing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Product.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../11-worldwise/starter/pages/Product.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../12-atomic-blog/starter/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/Calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/ToggleSounds.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../13-workout-timer/starter/src/ToggleSounds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/AccountOperations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/BalanceDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/CreateCustomer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/Customer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../15-redux-intro/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/prettier.config.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/final-1-after-tailwind/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/Cart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/CartItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/CartOverview.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/CreateOrder.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/CreateUser.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/EmptyCart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/Error.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/Menu.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/MenuItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/Order.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/OrderItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/apiGeocoding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/apiRestaurant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../16-fast-react-pizza/starter/userSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/Uploader.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/cabins/cabin-008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/data-bookings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/data-cabins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/data-guests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/img/default-user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/img/logo-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/data/img/logo-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/authentication/LoginForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/authentication/SignupForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/authentication/UpdatePasswordForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/authentication/UpdateUserDataForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/authentication/UserAvatar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/bookings/BookingDataBox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/bookings/BookingDetail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/bookings/BookingRow.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/bookings/BookingTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/bookings/BookingTableOperations.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/cabins/CabinRow.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/cabins/CabinTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/cabins/CreateCabinForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/check-in-out/CheckinBooking.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/check-in-out/CheckoutButton.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/check-in-out/TodayActivity.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/check-in-out/TodayItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/DashboardBox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/DashboardFilter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/DashboardLayout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/DurationChart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/SalesChart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/dashboard/Stat.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/features/settings/UpdateSettingsForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/hooks/useLocalStorageState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/hooks/useMoveBack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Account.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Bookings.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Cabins.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Dashboard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/PageNotFound.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Settings.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/pages/Users.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/services/apiBookings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/services/apiSettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/styles/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/ButtonGroup.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/ButtonIcon.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/ButtonText.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Checkbox.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/ConfirmDelete.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/DataItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Empty.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/ErrorFallback.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/FileInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Filter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Flag.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Form.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Logo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/MainNav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Menus.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Pagination.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Select.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Spinner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/SpinnerMini.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Table.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/TableOperations.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Tag.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/ui/Textarea.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../17-the-wild-oasis/starter/utils/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/CabinCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/CabinCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/DateSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/DateSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/DeleteReservation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/DeleteReservation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/LoginMessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/LoginMessage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/Price.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/Price.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/ReservationCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/ReservationCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/ReservationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/ReservationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/ReservationReminder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/ReservationReminder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/SelectCountry.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/SelectCountry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/SideNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/SideNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/SignInButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/SignInButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/SignOutButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/SignOutButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/Spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/Spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/SpinnerMini.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/SpinnerMini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../components/TextExpander.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_components/TextExpander.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/about-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/about-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/about-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/about-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/colors.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../others/colors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/data-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../_lib/data-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../_styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../others/not-found.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/about-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/about-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/cabin-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/cabins-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/cabins-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/home-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/home-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/login-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/login-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/profile-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../account/profile/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/reservation-edit-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/reservation-edit-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/reservations-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../account/reservations/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pages/thank-you-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pages/thank-you-page.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2onp5hfW6tn4FkTzb6rloHP0b0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Tal/Documents/Programming courses/krembot",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="C:\Program Files\JetBrains\WebStorm 2023.2.5\jbr\bin\." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec4cc9f-16bb-475e-b6f6-4244da872aad" name="Changes" comment="" />
+      <created>1731515013188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731515013188</updated>
+      <workItem from="1731515014192" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
