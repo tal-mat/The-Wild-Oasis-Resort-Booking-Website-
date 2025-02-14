@@ -1,5 +1,7 @@
 # The Wild Oasis 🌴
 
+This project was made in the React Course by Jonas Schmedtmann.
+
 The Wild Oasis is a beautifully designed, interactive resort website built with **Next.js** and **React**. It allows users to explore accommodations, check availability, and make bookings while providing a smooth, seamless experience. The project integrates server-side actions for booking functionality and dynamic content.
 
 ## Project Description
