@@ -5,7 +5,7 @@ import about2 from "@/public/about-2.jpg";
 import { getCabins } from "@/app/_lib/data-service";
 
 // Disable caching to fetch the latest cabin data on each request every one 1 day
-export const revalidate = 3600 * 24;
+export const revalidate = 86400;
 
 // Metadata for the About page
 export const metadata = {
