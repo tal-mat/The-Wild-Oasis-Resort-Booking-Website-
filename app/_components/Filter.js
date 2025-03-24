@@ -20,7 +20,7 @@ function Filter() {
   }
 
   return (
-    <div className="border border-primary-800 flex">
+    <div className="border border-primary-800 flex flex-wrap">
       {/* Button to show all cabins */}
       <Button
         filter="all"
@@ -61,7 +61,7 @@ function Filter() {
 function Button({ filter, handleFilter, activeFilter, children }) {
   return (
     <button
-      className={`px-5 py-2 hover:bg-primary-700 ${filter === activeFilter ? "bg-primary-700 text-primary-50" : ""}`}
+      className={`px-3 py-2 text-sm sm:px-5 sm:py-2 hover:bg-primary-700 ${filter === activeFilter ? "bg-primary-700 text-primary-50" : ""}`}
       onClick={() => handleFilter(filter)}
     >
       {children}

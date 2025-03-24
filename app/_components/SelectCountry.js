@@ -15,7 +15,7 @@ async function SelectCountry({ defaultCountry, name, id, className }) {
       id={id}
       // Encode both the country name and its flag as the select option value
       defaultValue={`${defaultCountry}%${flag}`}
-      className={className}
+      className={`${className} text-sm sm:text-base`}
     >
       <option value="">Select country...</option>
       {/* Map through the countries and display them as options with name and flag */}

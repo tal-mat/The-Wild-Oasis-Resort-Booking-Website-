@@ -7,15 +7,17 @@ export default function Error({ error, reset }) {
   const router = useRouter();
 
   return (
-    <main className="flex justify-center items-center flex-col gap-6">
-      <h1 className="text-3xl font-semibold">Something went wrong!</h1>
+    <main className="flex justify-center items-center flex-col gap-4 px-4 py-8">
+      <h1 className="text-2xl font-semibold text-center">
+        Something went wrong!
+      </h1>
 
-      <p className="text-lg">{error.message}</p>
+      <p className="text-base text-center">{error.message}</p>
 
       {/* Retry button: calls reset if available, otherwise navigates back */}
       <button
         onClick={reset ? reset : () => router.back()}
-        className="inline-block bg-accent-500 text-primary-800 px-6 py-3 text-lg"
+        className="inline-block bg-accent-500 text-primary-800 px-4 py-2 text-base"
       >
         Try again
       </button>

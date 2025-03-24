@@ -12,19 +12,19 @@ function ReservationReminder() {
 
   return (
     // Fixed position reminder at the bottom of the screen
-    <div className="fixed bottom-6 left-1/2 -translate-x-1/2 py-5 px-8 rounded-full bg-accent-500 text-primary-800 text font-semibold shadow-xl shadow-slate-900 flex gap-8 items-center">
-      <p>
+    <div className="fixed bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 py-3 px-4 sm:px-8 rounded-full bg-accent-500 text-primary-800 text-sm sm:text-base font-semibold shadow-xl shadow-slate-900 flex gap-4 sm:gap-8 items-center">
+      <p className="text-xs sm:text-sm">
         <span>👋</span> Don&apos;t forget to reserve your dates <br /> from{" "}
         {/* Format and display the 'from' and 'to' dates */}
-        {format(new Date(range.from), "MMM dd yyyy")} to{" "}
-        {format(new Date(range.to), "MMM dd yyyy")}
+        {format(new Date(range.from), "MMM dd")} to{" "}
+        {format(new Date(range.to), "MMM dd")}
       </p>
       <button
         className="rounded-full p-1 hover:bg-accent-600 transition-all"
         onClick={resetRange}
       >
         {/* Close button to dismiss the reminder */}
-        <XMarkIcon className="h-5 w-5" />
+        <XMarkIcon className="h-4 w-4 sm:h-5 sm:w-5" />
       </button>
     </div>
   );

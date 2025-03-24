@@ -8,9 +8,9 @@ function Cabin({ cabin }) {
     cabin;
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 border border-primary-800 py-3 px-5 md:px-10 mb-24 items-start">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10 border border-primary-800 py-3 px-5 md:px-10 mb-12 md:mb-24 items-start">
       {/* Image container for the cabin with responsive dimensions */}
-      <div className="relative w-full h-64 md:h-full">
+      <div className="relative w-full aspect-video md:h-full">
         <Image
           src={image}
           fill
@@ -23,39 +23,39 @@ function Cabin({ cabin }) {
       {/* Text content container displaying cabin details */}
       <div>
         {/* Cabin name with large, bold styling */}
-        <h3 className="text-accent-100 font-black text-4xl md:text-7xl mb-5 bg-primary-950 p-4 md:p-6 pb-1 text-center md:text-left">
+        <h3 className="text-accent-100 font-black text-3xl md:text-7xl mb-3 md:mb-5 bg-primary-950 p-4 md:p-6 pb-1 text-center md:text-left">
           Cabin {name}
         </h3>
 
         {/* Cabin description text */}
-        <p className="text-lg text-primary-300 mb-10">
+        <p className="text-base md:text-lg text-primary-300 mb-6 md:mb-10">
           <TextExpander>{description}</TextExpander>
           description
         </p>
 
         {/* List of cabin features */}
-        <ul className="flex flex-col gap-4 mb-7">
-          <li className="flex gap-3 items-center">
-            <UsersIcon className="h-5 w-5 text-primary-600" />{" "}
+        <ul className="flex flex-col gap-3 md:gap-4 mb-5 md:mb-7">
+          <li className="flex gap-2 md:gap-3 items-center">
+            <UsersIcon className="h-4 w-4 md:h-5 md:w-5 text-primary-600" />{" "}
             {/* Icon for max capacity */}
-            <span className="text-lg">
+            <span className="text-sm md:text-lg">
               For up to <span className="font-bold">{maxCapacity}</span> guests{" "}
               {/* Maximum guest capacity */}
             </span>
           </li>
-          <li className="flex gap-3 items-center">
-            <MapPinIcon className="h-5 w-5 text-primary-600" />{" "}
+          <li className="flex gap-2 md:gap-3 items-center">
+            <MapPinIcon className="h-4 w-4 md:h-5 md:w-5 text-primary-600" />{" "}
             {/* Icon for location */}
-            <span className="text-lg">
+            <span className="text-sm md:text-lg">
               Located in the heart of the{" "}
               <span className="font-bold">Dolomites</span> (Italy){" "}
               {/* Cabin location */}
             </span>
           </li>
-          <li className="flex gap-3 items-center">
-            <EyeSlashIcon className="h-5 w-5 text-primary-600" />{" "}
+          <li className="flex gap-2 md:gap-3 items-center">
+            <EyeSlashIcon className="h-4 w-4 md:h-5 md:w-5 text-primary-600" />{" "}
             {/* Icon for privacy */}
-            <span className="text-lg">
+            <span className="text-sm md:text-lg">
               Privacy <span className="font-bold">100%</span> guaranteed{" "}
               {/* Privacy level */}
             </span>

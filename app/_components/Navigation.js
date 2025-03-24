@@ -12,10 +12,9 @@ export default async function Navigation() {
   const session = await auth();
 
   return (
-    <nav className="z-10 text-xl">
-      <ul className="flex gap-16 items-center">
-        {/* Navigation link to cabins page */}
-        <li>
+    <nav className="z-10">
+      <ul className="flex items-center gap-4 sm:gap-8 md:gap-16">
+        <li className="text-base sm:text-lg md:text-xl">
           <Link
             href="/cabins"
             className="hover:text-accent-400 transition-colors"
@@ -23,8 +22,7 @@ export default async function Navigation() {
             Cabins
           </Link>
         </li>
-        {/* Navigation link to about page */}
-        <li>
+        <li className="text-base sm:text-lg md:text-xl">
           <Link
             href="/about"
             className="hover:text-accent-400 transition-colors"
@@ -32,15 +30,14 @@ export default async function Navigation() {
             About
           </Link>
         </li>
-        {/* Navigation link to guest area */}
-        <li>
+        <li className="text-base sm:text-lg md:text-xl">
           {session?.user?.image ? (
             <Link
               href="/account"
-              className="hover:text-accent-400 transition-colors flex items-center gap-4"
+              className="hover:text-accent-400 transition-colors flex items-center gap-2 md:gap-4"
             >
               <img
-                className="h-8 rounded-full"
+                className="h-6 sm:h-8 rounded-full"
                 src={session.user.image}
                 alt={session.user.name}
                 referrerPolicy="no-referrer"

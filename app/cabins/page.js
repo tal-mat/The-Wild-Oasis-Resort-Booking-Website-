@@ -19,27 +19,27 @@ export default async function Page({ searchParams }) {
   const filter = searchParams?.capacity ?? "all";
 
   return (
-    <div>
-      {/* Display the page title */}
-      <h1 className="text-4xl mb-5 text-accent-400 font-medium">
-        Our Luxury Cabins
-      </h1>
-
-      {/* Display a description of the cabins */}
-      <p className="text-primary-200 text-lg mb-10">
-        Cozy yet luxurious cabins, located right in the heart of the Italian
-        Dolomites. Imagine waking up to beautiful mountain views, spending your
-        days exploring the dark forests around, or just relaxing in your private
-        hot tub under the stars. Enjoy natureapos;s beauty in your own little
-        home away from home. The perfect spot for a peaceful, calm vacation.
-        Welcome to paradise.
-      </p>
-
-      <div className="flex justify-end mb-8">
-        {/* Filter component to select cabin capacity */}
+    <div className="p-4">
+      <div className="mb-4">
+        {/* Display the page title */}
+        <h1 className="text-xl sm:text-3xl text-accent-400 font-medium text-center sm:text-left">
+          Our Luxury Cabins
+        </h1>
+      </div>
+      <div className="mb-6">
+        {/* Display a description of the cabins */}
+        <p className="text-sm text-primary-200 leading-relaxed">
+          Cozy yet luxurious cabins, located right in the heart of the Italian
+          Dolomites. Imagine waking up to beautiful mountain views, spending
+          your days exploring the dark forests around, or just relaxing in your
+          private hot tub under the stars. Enjoy nature's beauty in your own
+          little home away from home. The perfect spot for a peaceful, calm
+          vacation. Welcome to paradise.
+        </p>
+      </div>
+      <div className="flex justify-end mb-4">
         <Filter />
       </div>
-
       {/* Suspense wrapper to re-mount CabinList on filter change, triggering a fresh data fetch */}
       <Suspense fallback={<Spinner />} key={filter}>
         {/* Display the list of cabins based on the selected filter */}
