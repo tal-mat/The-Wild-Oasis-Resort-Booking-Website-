@@ -31,15 +31,18 @@ export default async function Navigation() {
             className="hover:text-accent-400 transition-colors flex items-center gap-2 md:gap-4 whitespace-nowrap"
           >
             {userImage ? (
-              <div className="relative w-8 h-8 rounded-full overflow-hidden">
-                <Image
-                  src={userImage}
-                  alt={session.user.name || "User profile"}
-                  width={32}
-                  height={32}
-                  className="object-cover"
-                  referrerPolicy="no-referrer"
-                />
+              <div className="flex items-center gap-2">
+                <div className="relative w-8 h-8 rounded-full overflow-hidden">
+                  <Image
+                    src={userImage}
+                    alt={session.user.name || "User profile"}
+                    width={32}
+                    height={32}
+                    className="object-cover"
+                    referrerPolicy="no-referrer"
+                  />
+                </div>
+                <span>Guest area</span>
               </div>
             ) : (
               <span>Guest area</span>

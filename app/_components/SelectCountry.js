@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { getCountries } from "@/app/_lib/data-service";
 
 // SelectCountry component for selecting a country with its flag
