@@ -8,11 +8,11 @@ import {
   UserIcon,
   Bars3Icon,
   XMarkIcon,
+  ArrowRightOnRectangleIcon,
 } from "@heroicons/react/24/solid";
 import SignOutButton from "./SignOutButton";
 import { usePathname } from "next/navigation";
 
-// Navigation links for the sidebar
 const navLinks = [
   {
     name: "Home",
@@ -39,14 +39,12 @@ function SideNavigation() {
     setIsMenuOpen(!isMenuOpen);
   };
 
-  // Close menu when path changes (user navigates)
   useEffect(() => {
     setIsMenuOpen(false);
   }, [pathname]);
 
   return (
     <>
-      {/* Mobile Menu Toggle Button */}
       <div className="sm:hidden fixed top-4 left-4 z-40">
         <button
           onClick={toggleMenu}
@@ -61,7 +59,6 @@ function SideNavigation() {
         </button>
       </div>
 
-      {/* Mobile overlay */}
       {isMenuOpen && (
         <div
           className="fixed inset-0 bg-black bg-opacity-50 z-30 sm:hidden"
@@ -69,20 +66,18 @@ function SideNavigation() {
         />
       )}
 
-      {/* Navigation sidebar */}
       <nav
         className={`
           border-r border-primary-900 
           sm:block sm:w-auto sm:static
           fixed inset-y-0 left-0 z-30
-          w-64 bg-primary-950 sm:bg-transparent
+          w-64 bg-primary-950 sm:bg-transparent max-h-screen overflow-y-auto
           transform transition-transform duration-300 ease-in-out
           ${isMenuOpen ? "translate-x-0" : "-translate-x-full sm:translate-x-0"}
         `}
       >
         <div className="h-16 sm:hidden" />
-        <ul className="flex flex-col gap-2 h-full text-base sm:text-lg p-4 sm:p-0">
-          {/* Generate navigation list items dynamically from navLinks */}
+        <ul className="flex flex-col gap-2 h-full text-base sm:text-lg p-4 sm:p-0 relative overflow-y-auto">
           {navLinks.map((link) => (
             <li key={link.name}>
               <Link
@@ -97,8 +92,12 @@ function SideNavigation() {
             </li>
           ))}
 
-          <li className="mt-auto">
-            <SignOutButton />
+          <li>
+            <SignOutButton
+              className="w-full text-left py-2 sm:py-3 px-4 sm:px-5 hover:bg-primary-900 hover:text-primary-100 transition-colors flex items-center gap-3 sm:gap-4 font-semibold text-primary-200"
+              iconClassName="h-5 w-5 text-primary-600"
+              textClassName="text-sm sm:text-base"
+            />
           </li>
         </ul>
       </nav>
