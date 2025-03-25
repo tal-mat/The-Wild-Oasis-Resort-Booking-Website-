@@ -19,7 +19,7 @@ export default function Page() {
 
       <div className="relative z-10 text-center p-4">
         <h1 className="text-5xl sm:text-8xl text-primary-50 mb-6 sm:mb-10 tracking-tight font-normal">
-          Welcome to paradise.
+          Welcome to paradise
         </h1>
 
         <Link

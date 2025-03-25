@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useFormStatus } from "react-dom";
 import { updateGuest } from "@/app/_lib/actions";
+import Image from "next/image";
 
 // UpdateProfileForm component to handle profile update form
 function UpdateProfileForm({ guest, children }) {
@@ -39,15 +40,19 @@ function UpdateProfileForm({ guest, children }) {
 
       {/* Nationality selection with flag */}
       <div className="space-y-1 sm:space-y-2">
-        <div className="flex items-center justify-between relative">
+        <div className="flex items-center gap-2">
           <label htmlFor="nationality" className="text-sm sm:text-base">
             Where are you from?
           </label>
-          <img
-            src={countryFlag}
-            alt="Country flag"
-            className="h-4 sm:h-5 rounded-sm"
-          />
+          {countryFlag && (
+            <Image
+              src={countryFlag}
+              alt="Country flag"
+              width={20}
+              height={20}
+              className="rounded-sm"
+            />
+          )}
         </div>
 
         {/* Render children components here */}

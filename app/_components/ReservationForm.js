@@ -4,6 +4,7 @@ import { useReservation } from "@/app/_components/ReservationContext";
 import { differenceInDays } from "date-fns";
 import { createBooking } from "@/app/_lib/actions";
 import SubmitButton from "@/app/_components/SubmitButton";
+import Image from "next/image";
 
 // A reservation form, showing the user profile and booking details while allowing them to submit a booking request.
 function ReservationForm({ cabin, user }) {
@@ -35,12 +36,13 @@ function ReservationForm({ cabin, user }) {
 
         {/* Display user profile image and name */}
         <div className="flex gap-2 sm:gap-4 items-center">
-          <img
-            // Important to display google profile images
-            referrerPolicy="no-referrer"
-            className="h-6 sm:h-8 rounded-full"
+          <Image
             src={user.image}
             alt={user.name}
+            width={32}
+            height={32}
+            className="rounded-full"
+            referrerPolicy="no-referrer"
           />
           <p className="text-sm sm:text-base">{user.name}</p>
         </div>

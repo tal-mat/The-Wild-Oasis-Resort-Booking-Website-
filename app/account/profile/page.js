@@ -11,7 +11,14 @@ export const metadata = {
 // Main Update Profile page component
 export default async function Page() {
   const session = await auth();
+
+  // Log session data to ensure it's fetched correctly
+  console.log("Session Data:", session);
+
   const guest = await getGuest(session.user.email);
+
+  // Log guest data to make sure we received the correct info
+  console.log("Guest Data:", guest);
 
   return (
     <div>
