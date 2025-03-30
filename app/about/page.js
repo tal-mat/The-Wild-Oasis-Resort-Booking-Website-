@@ -75,10 +75,10 @@ export default async function Page() {
             Wild Oasis soon, where tradition meets tranquility, and every visit
             is like coming home.
           </p>
-          <div>
+          <div className="mt-4 sm:flex sm:justify-start flex justify-center">
             <Link
               href="/cabins"
-              className="inline-block mt-4 bg-accent-500 px-6 py-4 md:px-8 md:py-5 text-lg font-semibold hover:bg-accent-600 transition-all"
+              className="bg-accent-500 px-6 py-4 md:px-8 md:py-5 text-lg font-semibold hover:bg-accent-600 transition-all"
             >
               Explore our luxury cabins
             </Link>

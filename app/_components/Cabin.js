@@ -29,8 +29,9 @@ function Cabin({ cabin }) {
 
         {/* Cabin description text */}
         <p className="text-base md:text-lg text-primary-300 mb-6 md:mb-10">
-          <TextExpander>{description}</TextExpander>
-          description
+          <span>
+            <TextExpander>{description}</TextExpander>
+          </span>
         </p>
 
         {/* List of cabin features */}
