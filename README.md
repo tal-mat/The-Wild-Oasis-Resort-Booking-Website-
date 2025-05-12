@@ -1,4 +1,4 @@
-# The Wild Oasis 🌴
+# The Wild Oasis (Resort Booking Website) 🌴
 
 This project was made in the React Course by Jonas Schmedtmann.
 
